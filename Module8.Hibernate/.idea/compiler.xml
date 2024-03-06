@@ -6,10 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Module3.SpringMVC.CRUD" />
-        <module name="spring-mvc-crud-jdbc-template" />
-        <module name="Module3.SpringMVC.CRUD.JdbcTemplate" />
-        <module name="Module3.SpringMVC.CRUD.JDBC_API" />
+        <module name="Module8.Hibernate" />
       </profile>
     </annotationProcessing>
   </component>
